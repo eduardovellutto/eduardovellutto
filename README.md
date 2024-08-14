@@ -49,3 +49,10 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=eduardovellutto&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
